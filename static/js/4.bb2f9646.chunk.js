@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{132:function(n,t,o){"use strict";o.r(t);var e=o(0),u=o.n(e),c=o(134),r=o(19),f=o(7);t.default=Object(r.b)(null,function(n){return{onLogout:function(){return n(f.n())}}})(function(n){return Object(e.useEffect)(function(){n.onLogout()},[]),u.a.createElement(c.a,{to:"/"})})}}]);
+//# sourceMappingURL=4.bb2f9646.chunk.js.map
